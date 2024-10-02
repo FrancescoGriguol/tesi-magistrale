@@ -1,2 +1,3 @@
-# TESI-MAGISTRALE
-Progetto di Tesi Magistrale
+# TESI MAGISTRALE
+Progetto di Tesi Magistrale in Ingegneria Aerospaziale
+
