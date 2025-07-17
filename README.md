@@ -28,10 +28,12 @@ The repository will be organized into:
 
 ## Acknowledgments
 
+The DVS/DAVIS technology was developed by the Sensors group of the Institute of Neuroinformatics (University of Zurich and ETH Zurich), which was funded by the EU FP7 SeeBetter project (grant 270324).
+
 This project makes use of the following tools and resources:
 
 - [GTSAM](https://github.com/borglab/gtsam) – A C++ library for smoothing and mapping, developed by Georgia Tech.
-- [iniVation DAVIS346](https://inivation.com/dvs) – Event-based camera and IMU used for data acquisition.
-- [DV Software Suite](https://gitlab.com/inivation/dv) – Official tools for data streaming, recording, and calibration.
+- [iniVation DAVIS346](https://inivation.com/wp-content/uploads/2019/08/DAVIS346.pdf) – Event-based camera and IMU used for data acquisition.
+- [DV Software Suite](https://docs.inivation.com/software/dv/index.html) – Official tools for data streaming, recording, and calibration.
 
 Special thanks to the developers and maintainers of these open-source tools and hardware platforms.
